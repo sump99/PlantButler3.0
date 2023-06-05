@@ -1,12 +1,4 @@
-# Plantory
+# 반려식물 관리 서비스 '식물집사'
+초보 식물집사를 위한 식물 관리 매뉴얼 제공 및 성장 기록 앱
 
-경영경제대학 X SW융합대학 연합해커톤
-<br>
-수상 내역: 우수상
-
-<img width="1080" alt="plantory" src="https://raw.githubusercontent.com/chocojaem/plantory/main/Plantory_explain.jpeg">
-
-개발 : 이관현, 이정현, 이재민
-<br>
-기획 : 최아영, 이준혜
-<br>
+![다운로드](https://blog.kakaocdn.net/dn/GJ2UR/btscVoaJmrj/EUsvm364aAKVMURoYhBAK1/img.png)
